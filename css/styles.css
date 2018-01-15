@@ -30,3 +30,36 @@ font-size:18px;
 color:white;
 
 }
+
+.supportingSection {
+text-align:center;
+
+}
+
+.supportingSection h2{
+font-weight:bold;
+font-size:32px;
+font-family: Helvetica;
+}
+.supportingSection h3{
+font-size: 23px;
+font-weight:bold;
+font-family: Helvetica;
+
+}
+
+.supporting-item p {
+font-family:Helvetica;
+font-size: 14px;
+
+}
+
+
+.footer {
+background-color: dimgray;
+font-size:11px;
+color:white;
+font-family: Helvetica;
+text-align: left;
+
+}
